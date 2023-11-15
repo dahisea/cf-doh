@@ -1,7 +1,7 @@
 const Router = require('./router')
 
-const URL_GOOGLE_RESOLVE = 'https://8.8.4.4/resolve';
-const URL_GOOGLE_DNS_QUERY = 'https://8.8.4.4/dns-query';
+const URL_GOOGLE_RESOLVE = 'https://dns64.dns.google/resolve';
+const URL_GOOGLE_DNS_QUERY = 'https://dns64.dns.google/dns-query';
 
 /**
  * Example of how router can be used in an application
